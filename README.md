@@ -1,5 +1,6 @@
-<!-- HEADER -->
-<h1 align="left">👋 Hi, I'm fa..</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=FA..&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 💻 Software Engineer sharing my journey in tech  
 🎓 Computer Science Enthusiast  
