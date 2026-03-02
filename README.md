@@ -19,6 +19,11 @@
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 </p>
 
 ---
