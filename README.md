@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=AlizionS&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:000000&height=500&section=header&text=AlizionS&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 💻 Software Engineer sharing my journey in tech  
