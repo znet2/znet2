@@ -13,3 +13,9 @@
 > Injecting skills...
 > Connecting to GitHub network...
 > Status: ONLINE
+
+Name      : ZNet2
+Role      : Developer
+Focus     : Backend | AI | Game Dev | System Design
+Location  : Thailand
+Mindset   : Build → Break → Learn → Improve
