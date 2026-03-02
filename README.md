@@ -27,5 +27,6 @@
 <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 </p>
 
-
-> “Consistency beats motivation.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=footer"/>
+</p>
