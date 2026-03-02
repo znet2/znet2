@@ -8,14 +8,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=header"/>
 </p>
 
-```bash
-> Booting ZNet2 profile...
-> Injecting skills...
-> Connecting to GitHub network...
-> Status: ONLINE
+# 👋 Hello, I'm fa..
 
-Name      : ZNet2
-Role      : Developer
-Focus     : Backend | AI | Game Dev | System Design
-Location  : Thailand
-Mindset   : Build → Break → Learn → Improve
+🚀 Full-Stack Developer  
+🌱 Currently learning: AI / System Design  
+💻 Building: Clean & Modern Web Experiences  
+📍 Based in Thailand  
+
+---
+
+## 🧠 Tech Stack
+- Frontend: React / Next.js / Tailwind
+- Backend: Node.js / Express
+- Database: MongoDB / MySQL
+- Tools: Git / Docker / Figma
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 2026 Goals
+- 🚀 Build production-ready SaaS
+- 🤖 Integrate AI into real-world apps
+- 📈 Level up system architecture skills
+
+---
+
+> “Code clean. Think deep. Build impact.”
