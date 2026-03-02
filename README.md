@@ -2,14 +2,10 @@
 <h1 align="left">👋 Hi, I'm fa..</h1>
 
 💻 Software Engineer sharing my journey in tech  
-🎓 Computer Science Enthusiast  
-📊 Currently learning Data Analytics & AI  
-🌱 Building projects in public  
-
+🎓 Computer Science Enthusiast 
+📊 Currently learning Data Scient & AI    
 ---
-
 # 🛠 Tech Stack
-
 <p>
 <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
