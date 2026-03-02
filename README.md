@@ -2,7 +2,7 @@
 <h1 align="left">👋 Hi, I'm fa..</h1>
 
 💻 Software Engineer sharing my journey in tech  
-🎓 Computer Science Enthusiast 
+🎓 Computer Science Enthusiast  
 📊 Currently learning Data Scient & AI    
 ---
 # 🛠 Tech Stack
