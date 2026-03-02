@@ -26,40 +26,5 @@
 <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=znet2&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znet2&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievement System
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building production-ready systems  
-- 🤖 AI / Machine Learning  
-- 🏗 Clean Architecture  
-- 📈 Scaling real-world applications  
-
----
 
 > “Consistency beats motivation.”
